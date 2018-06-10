@@ -1,8 +1,4 @@
 [ 
- { 
-   "repository": "android_device_lenovo_msm8953-common",
-   "target_path": "device/lenovo/msm8953-common"
- },
  {
    "repository": "android_kernel_lenovo_kuntao", 
    "target_path": "kernel/lenovo/kuntao"
